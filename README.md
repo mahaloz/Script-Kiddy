@@ -1,5 +1,5 @@
 # Script Kiddy
-A script dedicated to assisting all CS Students in automating CSE310 assignments
+A script dedicated to assisting all script kiddys in automating CSE310 assignments
 
 ## Installation
 Sign into general.asu.edu, and run the git clone command:
