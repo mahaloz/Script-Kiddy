@@ -16,7 +16,7 @@ To get the files from Feng's server run:
 ```bash
 ./get_files.sh <Assignment Number> <Number of files of input/output>
 ```
-Usually the input/output file amount will be 4. An example rum on assignment 1 would be:
+Usually the input/output file amount will be 4. An example run on assignment 1 would be:
 ```bash
 ./get_files.sh 1 4
 ```
