@@ -33,4 +33,9 @@ Example:
 ```
  
 ### Understanding output
-Output will be in the form of N amount 
+Output will be in the form of N diff text files. Diff is used to get the difference
+of each file, so if a txt file is empty, that means there is no differences in the output of your program.
+
+Each diffN.txt file will corospond to the inputN file. diff4.txt is the the differance in output4.txt and your programs output.
+
+To learn more about diff syntax see [diff](https://www.computerhope.com/unix/udiff.html) 
