@@ -32,5 +32,5 @@ Example:
 ./script_kiddy.sh ~/CSE310/HW1/Assignment1
 ```
  
-
-
+### Understanding output
+Output will be in the form of N amount 
