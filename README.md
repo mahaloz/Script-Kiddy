@@ -29,7 +29,7 @@ To finally test files, simply run Script Kiddy with the path to the program:
 
 Example:
 ```bash
-./script_kiddy.sh ~/zbasque/CSE310/HW1/Assignment1
+./script_kiddy.sh ~/CSE310/HW1/Assignment1
 ```
  
 
