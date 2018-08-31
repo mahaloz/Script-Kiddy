@@ -9,8 +9,13 @@ git clone https://github.com/mahaloz/Script-Kiddy.git
 ## How to Use:
 ### Get Files
 Before running Script Kiddy, you must first run the get_files script.
-*NOTE*: You will need to run this only once each time you login. All files are stored
+*NOTE*: You will need to run this only once each time you login. All temporary files are stored
 in /tmp/ which means you will need to redo this process with each login.
+
+First cd into the newly cloned directory
+```bash
+cd Script-Kiddy
+```
 
 To get the files from Feng's server run:
 ```bash
