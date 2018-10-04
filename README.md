@@ -6,7 +6,7 @@ Sign into general.asu.edu, and run the git clone command:
 ```bash
 git clone https://github.com/mahaloz/Script-Kiddy.git
 ```
-## How to Use:
+## Usage:
 ### Get Files
 Before running Script Kiddy, you must first run the get_files script.
 *NOTE*: You will need to run this only once each time you login. All temporary files are stored
