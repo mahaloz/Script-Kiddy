@@ -8,6 +8,10 @@ git clone https://github.com/mahaloz/Script-Kiddy.git
 ```
 ## Usage:
 ### Get Files
+#### UPDATES:
+The information below worked for assignment1 because all files are stored on Feng server.
+Do not use the get_files program for assignment4, as it requires a BB login, which I do not want to support. Simply download the input and output files yourself and put them in the /tmp/ folder of your system. 
+
 Before running Script Kiddy, you must first run the get_files script.
 *NOTE*: You will need to run this only once each time you login. All temporary files are stored
 in /tmp/ which means you will need to redo this process with each login, as tmp is reset.
