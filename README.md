@@ -48,3 +48,8 @@ of each file, so if a txt file is empty, that means there is no differences in t
 Each diffN.txt file will corospond to the inputN file. diff4.txt is the the differance in output4.txt and your programs output.
 
 To learn more about diff syntax see [diff](https://www.computerhope.com/unix/udiff.html) 
+
+### TODO
+Recently this has tool has shown to be unusable in the blackboard verification system of
+Fengs server. This can cause the tool to not download files because of authentication.
+A fix could involve having a self deleting tool to download with someones credentials.
